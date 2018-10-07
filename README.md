@@ -1,4 +1,7 @@
+![Image of Surface Book 2](https://www.bhphotovideo.com/images/images2000x2000/microsoft_hnr_00001_15_surface_book_2_1367732.jpg)
+
 # SurfaceBook2DX
+
 Surface Book 2 DX (Developer experience).
 
 A place to document my experience developing on a Surface Book 2.
